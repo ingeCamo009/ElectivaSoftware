@@ -9,6 +9,7 @@ Presentado como proyecto de integracion continua en el curso de electiva en inge
 ## Tareas
 
 Las tareas realizadas por cada integrante son los siguientes:
+
 **Camilo Arango:**
 - Creacion del repositorio
 - Creacion del Readme
